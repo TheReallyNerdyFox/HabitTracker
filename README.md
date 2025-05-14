@@ -10,3 +10,7 @@ Its a habit tracker with planed features such as:
 its a big project but what the heck am i supposed to do atm
 
 _HAVE FUN STORMIN ZEE CASTLE_
+
+## License
+This project is licensed under a **Private Use Only License**.  
+You may modify and use this code for personal purposes, but you may not distribute it publicly or use it commercially without permission.
